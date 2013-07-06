@@ -1,10 +1,11 @@
 /* app css stylesheet */
 body {
   margin-top: 60px; /* so body starts underneath the navbar */
-  margin-left: 0.75em;
+  margin-left: 0.75em; /* this might screw up the container-fluid layout */
 }
 
 footer {
+  padding-top: 10em;
   text-align: center;
   font-size: 0.75em;
 }
