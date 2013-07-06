@@ -4,6 +4,11 @@ body {
   margin-left: 0.75em;
 }
 
+footer {
+  text-align: center;
+  font-size: 0.75em;
+}
+
 .menu {
   list-style: none;
   border-bottom: 0.1em solid black;
