@@ -1,4 +1,8 @@
 /* app css stylesheet */
+body {
+  margin-top: 60px; /* so body starts underneath the navbar */
+  margin-left: 0.75em;
+}
 
 .menu {
   list-style: none;
